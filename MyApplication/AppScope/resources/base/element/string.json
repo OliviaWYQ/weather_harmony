@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "天气查询"
+    },
+    {
+      "name": "app_description",
+      "value": "基于高德地图API的天气查询应用"
+    }
+  ]
+} 

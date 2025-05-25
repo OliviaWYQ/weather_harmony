@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "天气查询应用模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "天气查询应用入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "天气查询"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "需要网络权限来获取天气数据"
+    },
+    {
+      "name": "location_permission_reason",
+      "value": "需要位置权限来获取当前位置的天气信息"
+    }
+  ]
+} 
