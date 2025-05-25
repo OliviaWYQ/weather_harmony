@@ -1,0 +1,2 @@
+# weather_harmony
+一个使用高德地图MCP查询天气的鸿蒙原生应用
